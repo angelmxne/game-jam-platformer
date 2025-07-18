@@ -1,0 +1,1 @@
+This is a simple Platformer, made for a gamejam. Don't expect this to be a crazy game, i'm not that good in coding yet and i'm only doing this in my spare time. Also feel free to modify this project if you want :3
